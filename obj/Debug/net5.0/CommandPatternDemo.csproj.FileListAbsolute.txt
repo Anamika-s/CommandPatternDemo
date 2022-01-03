@@ -1,0 +1,16 @@
+E:\CommandPatternDemo\bin\Debug\net5.0\CommandPatternDemo.exe
+E:\CommandPatternDemo\bin\Debug\net5.0\CommandPatternDemo.deps.json
+E:\CommandPatternDemo\bin\Debug\net5.0\CommandPatternDemo.runtimeconfig.json
+E:\CommandPatternDemo\bin\Debug\net5.0\CommandPatternDemo.runtimeconfig.dev.json
+E:\CommandPatternDemo\bin\Debug\net5.0\CommandPatternDemo.dll
+E:\CommandPatternDemo\bin\Debug\net5.0\ref\CommandPatternDemo.dll
+E:\CommandPatternDemo\bin\Debug\net5.0\CommandPatternDemo.pdb
+E:\CommandPatternDemo\obj\Debug\net5.0\CommandPatternDemo.csproj.AssemblyReference.cache
+E:\CommandPatternDemo\obj\Debug\net5.0\CommandPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\CommandPatternDemo\obj\Debug\net5.0\CommandPatternDemo.AssemblyInfoInputs.cache
+E:\CommandPatternDemo\obj\Debug\net5.0\CommandPatternDemo.AssemblyInfo.cs
+E:\CommandPatternDemo\obj\Debug\net5.0\CommandPatternDemo.csproj.CoreCompileInputs.cache
+E:\CommandPatternDemo\obj\Debug\net5.0\CommandPatternDemo.dll
+E:\CommandPatternDemo\obj\Debug\net5.0\ref\CommandPatternDemo.dll
+E:\CommandPatternDemo\obj\Debug\net5.0\CommandPatternDemo.pdb
+E:\CommandPatternDemo\obj\Debug\net5.0\CommandPatternDemo.genruntimeconfig.cache
